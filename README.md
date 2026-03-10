@@ -1,4 +1,4 @@
-# Data Analytics Projects – Vanshika Choudhary
+# Data Analytics Projects 
 
 This repository contains my **Data Analytics projects** where I analyze real-world datasets and build interactive dashboards using **Power BI and Excel**.
 
