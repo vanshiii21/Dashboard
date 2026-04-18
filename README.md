@@ -5,21 +5,24 @@ Hi! I'm a **Data Analyst** dedicated to turning raw data into strategic business
 
 
 ## 🛠️ Tech Stack
-* **Analysis:** SQL (Advanced), Excel (Power Query & Pivots)
-* **Visualization:** Power BI (DAX, Star Schema Modeling)
+* **Analysis:** SQL (Advanced), Excel (Pivots & Charts)
+* **Visualization:** Power BI (DAX)
 * **Datasets:** Real-world Govt. Data (NCRB India), Corporate CRM Logs
 
 
 
 ## 📂 Featured Projects
 
-### 1️⃣ India Crime Analysis (Official Govt. Dataset)
-**Tool:** SQL & Power BI  
-**The Goal:** Analyze crime patterns across India to help in resource allocation.
+### 1️⃣ India Crime Analysis (Official NCRB Govt. Dataset)
+**Tool:** Microsoft Excel (MIS Reporting)
+**Project Objective:** To transform raw government crime statistics into a structured MIS report for trend identification.
 
-* **What I did:** Cleaned 1,000+ rows of messy NCRB data using SQL.
-* **Key Insight:** Identified specific "Crime Hotspots" and seasonal trends (15% spike in festive months).
-* **Skills:** Data Cleaning, Geographic Mapping, Trend Analysis.
+* **Data Quality Assurance:** * Conducted a thorough **Manual Data Audit** to ensure 100% accuracy in crime figures.
+    * Validated data integrity against official NCRB summary reports.
+* **Key Skills:** * **Advanced MIS Reporting:** Structured raw data into pivot-ready formats for multi-dimensional analysis.
+    * **Data Visualisation:** Created trend lines and heat maps to show crime growth rates across different Indian states.
+* **Top Insight:** * Successfully identified the top 5 states with the highest crime-to-population ratio, providing a clearer picture than raw numbers alone.
+
 
 ### 2️⃣ Call Center Performance Dashboard
 **Tool:** Power BI (Advanced DAX)  
@@ -30,7 +33,7 @@ Hi! I'm a **Data Analyst** dedicated to turning raw data into strategic business
 * **Skills:** DAX Measures, Star Schema, KPI Tracking.
 
 ### 3️⃣ Smartphone Behavioral Analysis
-**Tool:** SQL (Intermediate to Advanced)  
+**Tool:** SQL (Basic to Advanced)  
 **The Goal:** Link screen time with addiction levels.
 
 * **What I did:** Used **CTEs** and **Window Functions** to rank user addiction risks.
