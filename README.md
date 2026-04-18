@@ -5,7 +5,7 @@ Hi! I'm a **Data Analyst** dedicated to turning raw data into strategic business
 
 
 ## 🛠️ Tech Stack
-* **Analysis:** SQL (Advanced), Excel (Pivots & Charts)
+* **Analysis:** SQL (Advanced), Excel (Formulas,Pivots & Charts)
 * **Visualization:** Power BI (DAX)
 * **Datasets:** Real-world Govt. Data (NCRB India), Corporate CRM Logs
 
