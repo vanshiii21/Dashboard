@@ -1,50 +1,41 @@
 # 📊 Data Analytics Portfolio | SQL • Power BI • Excel
 
-Hi! I'm a **Data Analyst** dedicated to turning raw data into strategic business decisions. This repository showcases my ability to handle messy datasets and build professional dashboards.
+Welcome to my portfolio! I am a **Data Analyst** focused on transforming complex datasets into actionable MIS reports and interactive dashboards.
 
 
 
 ## 🛠️ Tech Stack
-* **Analysis:** SQL (Advanced), Excel (Formulas,Pivots & Charts)
-* **Visualization:** Power BI (DAX)
-* **Datasets:** Real-world Govt. Data (NCRB India), Corporate CRM Logs
+* **Excel:** Advanced MIS Reporting, Pivot Tables, Data Visualization (Pie & Bar Charts,Formulas)
+* **SQL:** Advanced Queries, Data Extraction, Joins, and Analytical Querying
+* **Power BI:** Interactive Dashboarding and KPI Tracking
 
 
 
 ## 📂 Featured Projects
 
-### 1️⃣ India Crime Analysis (Official NCRB Govt. Dataset)
-**Tool:** Microsoft Excel (MIS Reporting)
-**Project Objective:** To transform raw government crime statistics into a structured MIS report for trend identification.
+### 1️⃣ India Crime Analysis Dashboard [MIS Report]
+**Dataset:** Official Indian Crime Records (NCRB)
+**Tools Used:** Microsoft Excel
 
-* **Data Quality Assurance:** * Conducted a thorough **Manual Data Audit** to ensure 100% accuracy in crime figures.
-    * Validated data integrity against official NCRB summary reports.
-* **Key Skills:** * **Advanced MIS Reporting:** Structured raw data into pivot-ready formats for multi-dimensional analysis.
-    * **Data Visualisation:** Created trend lines and heat maps to show crime growth rates across different Indian states.
-* **Top Insight:** * Successfully identified the top 5 states with the highest crime-to-population ratio, providing a clearer picture than raw numbers alone.
-
-
-### 2️⃣ Call Center Performance Dashboard
-**Tool:** Power BI (Advanced DAX)  
-**The Goal:** Improve Customer Satisfaction (CSAT) and reduce Call Drop rates.
-
-* **What I did:** Built a dynamic dashboard tracking **AHT (Average Handle Time)** and **FCR (First Call Resolution)**.
-* **Key Insight:** Found that 30% of call drops happen between 10 AM - 12 PM; recommended staff rescheduling.
-* **Skills:** DAX Measures, Star Schema, KPI Tracking.
-
-### 3️⃣ Smartphone Behavioral Analysis
-**Tool:** SQL (Basic to Advanced)  
-**The Goal:** Link screen time with addiction levels.
-
-* **What I did:** Used **CTEs** and **Window Functions** to rank user addiction risks.
-* **Skills:** Complex Joins, Subqueries, Logic Building.
+* **The Challenge:** Analyzing high-volume government data to identify crime distribution under different legal heads.
+* **Key Features:**
+    * **MIS Summary:** Created a concise dashboard tracking **Total Crimes (21,359)**, **IPC Crimes (11,785)**, and specific categories like Crimes against Women and Children.
+    * **Category Comparison:** Developed Pie and Bar charts to visualize the ratio of IPC crimes vs. Special & Local Laws.
+    * **Data Auditing:** Performed manual data validation to ensure zero errors in official government reporting.
+* **Top Insight:** Identified that IPC Crimes constitute the majority (over 55%) of the total reported cases in this dataset.
 
 
-## 📈 Why Hire Me?
-1. **Real Data Experience:** I don't just use tutorial data; I work with official Indian Govt. datasets.
-2. **Business Mindset:** I don't just make charts; I find **Insights** that save time and money.
-3. **Clean Code:** My SQL scripts are well-commented and easy to read.
+### 2️⃣ Call Center Performance Analysis
+**Tools Used:** Power BI
+
+* **The Goal:** Improving operational efficiency by tracking service level metrics.
+* **KPIs Tracked:** First Call Resolution (FCR), Average Handle Time (AHT), and Customer Satisfaction (CSAT).
+* **Impact:** Identified peak hour bottlenecks to suggest better shift-rotation for agents.
 
 
 
+## 📈 Why My Work Stands Out
+1. **Real-World Impact:** I work with official Indian Government datasets, showing I can handle high-stakes data.
+2. **Attention to Detail:** My MIS reports are built for accuracy, ensuring that senior management can make decisions with confidence.
+3. **End-to-End Analysis:** I can bridge the gap between raw data (SQL) and final visualization (Power BI/Excel).
 
